@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nft-showcase/static/css/main.2715da63.css",
+    "main.js": "/nft-showcase/static/js/main.c203a903.js",
+    "static/media/scene.png": "/nft-showcase/static/media/scene.0c9a4cc167442c9b3806.png",
+    "static/media/mockup.png": "/nft-showcase/static/media/mockup.db6381a867d29be0934a.png",
+    "static/media/feature.png": "/nft-showcase/static/media/feature.54eb71fb8a918fd5e4f6.png",
+    "static/media/home_hero.png": "/nft-showcase/static/media/home_hero.08651b83de3b3167695a.png",
+    "static/media/home_cards.png": "/nft-showcase/static/media/home_cards.c5b24fac95f88325335b.png",
+    "static/media/react.png": "/nft-showcase/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/banner02.svg": "/nft-showcase/static/media/banner02.2f6ba07c3ed4697086f7.svg",
+    "static/media/banner03.svg": "/nft-showcase/static/media/banner03.a278a430daff7d7a2a6e.svg",
+    "static/media/banner.svg": "/nft-showcase/static/media/banner.3c310352a6d940cab963.svg",
+    "static/media/banner04.svg": "/nft-showcase/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/nft-showcase/index.html",
+    "main.2715da63.css.map": "/nft-showcase/static/css/main.2715da63.css.map",
+    "main.c203a903.js.map": "/nft-showcase/static/js/main.c203a903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2715da63.css",
+    "static/js/main.c203a903.js"
+  ]
+}
