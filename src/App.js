@@ -6,7 +6,7 @@ function App() {
     <>
       <SectionWrapper
         title='You own store of Nifty NFTs Start Selling & Growing'
-        description='Buy, store, collet NFTs, exchange & earn crypto. Join 25+ millons people using ProNef MArketplace'
+        description='Buy, store, collet NFTs, exchange & earn crypto. Join 25+ millons people using ProNef Marketplace'
         showBtn
         mockupImg={assets.homeHero}
         banner='banner'
